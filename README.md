@@ -7,5 +7,7 @@ Web project using Laravel framework
 -Bootstrap
 -PHP
 -Laravel
+-Apache
 -MariaDB
+-XAMPP
 
